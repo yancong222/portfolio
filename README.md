@@ -1,4 +1,5 @@
 # portfolio
 
-# collaborated with Dr. Wolff, P. and Haohan
-# goal: to increase transformer models' transparency
+# NLP file goal: to increase transformer models' transparency
+
+# high order reasoning file goal: to model and better our understanding of inferences reasoning
